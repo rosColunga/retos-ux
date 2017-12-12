@@ -49,7 +49,8 @@ A continuación una serie intercalada de información más detallada por seccion
 
 ### ¿Cómo debe ser la experiencia al navegar?
 *Postular debe ser una tarea sencilla de realizar.* Por medio de imágenes las mujeres interesadas deben poderse identificar y proyectar. Debe brindarse seguridad por medio de un respaldo de empresas líder y de personas (tangibles) cuya experiencia u opinión brinde seguridad.
-Análisis de elementos
+
+### Análisis de elementos
 
 - *La imagen Hero mostrada en la home page* es lo primero que capta la atención dentro de la experiencia **(See)**. Es lo suficientemente pregnante para transmitir los objetivos de superación y plenitud que el programa puede brindar a mujeres jóvenes latinoamericanas. Acompañada por un texto que complementa la experiencia  resumiendo muy brevemente los objetivos **(Think)**. Haciendo la invitación a conocer más por medio de un ícono lineal tipo flecha **(Do)**.
 
