@@ -89,7 +89,7 @@ De forma general, Github utiliza  **“Navegación coherente”** al mantener el
 
 En primer lugar, al no estar *"logeado"*, la página presenta un menú de **Navegación global** que contiene de lado izquierdo la identificación del sitio por medio de la silueta de su personaje *Octocat*, que es su logotipo y es el elemento que al dar click siempre te llevará a Home; seguido de 5 secciones de *navegación principal*;  un recuadro de búsqueda y por último 2 utilidades para poder ingresar a la página por primera vez *(Sign up)* o con datos de usuario existentes *(Sign in)*.
 
-![Navegación GitHub](./assets/images/nav-github/1.jpg)
+![Navegación GitHub](./assets/images/nav-github/1.JPG)
 
 Una vez que se ha ingresado, nos encontramos con un menú de **Navegacion local** ya que presenta las secciones que  ayudarían al usuario a navegar en una vista en particular, en este caso desde su propio perfil.
 
