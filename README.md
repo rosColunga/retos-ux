@@ -5,39 +5,39 @@ Dentro de los elementos gráficos empleados a lo largo de la página web de Labo
 - El uso de las Tipografías Montserrat peso 400 y 700, Museo Sans.
 - Botones rectangulares con color amarillo opaco valor hexadecimal #f7b617 con texto en versalitas. De lado Izquierdo fondo del color antes mencionado con letra obscura "Estudiantes"; lado derecho "Empresas" contorno y texto amarillo opaco igualmente.
 
-![Lyft Website](assets/images/ux-ui/1.jpg)
+![Laboratoria UI](assets/images/ux-ui/1.jpg)
 
 - Menú de navegación principal, estático.
 - Menú lateral para compartir página web en redes sociales (facebook, twitter, correo electrónico) con posicionamiento fijo al dar scroll sobre línea "y" (vertical).
 - Títulos y énfasis en mayúsculas, con Museo sans, pesos 400 y 700.
 -Home page: Background image de alumnas egresadas en ceremonia de graduación. Con texto centrado en color blanco, título resaltado con peso bold y tamaño aproximado de 36 px (ordenador); Debajo ícono lineal tipo flecha sencilla indicando mayor información hacia abajo.
 
-![Lyft Website](assets/images/ux-ui/hero.jpg)
+![Laboratoria UI](assets/images/ux-ui/hero.jpg)
 
 A continuación una serie intercalada de información más detallada por secciones y frases acerca de Laboratoria. (en 8 secciones principales).
 - Secciones de información (4). Secciones 1,3,5: Fondo gris aclarado color hexadecimal #F7F7F7, texto centrado. Título en color negro, tamaño aproximado de 22px; subtítulo en amarillo opaco en jerarquía de tamaño levemente inferior, en la parte superior de la sección. Pleca (icono de línea divisoria entre la información) debajo de títulos, en combinación con subtítulos.
 - Contenido informativo en Museo sans regular. Botones resaltados tipo 1 que direccionan a Views de la web, externas al index.html. Para postular como alumna o adquirir un servicio como empresa.
 
-![Lyft Website](assets/images/ux-ui/3.jpg)
+![Laboratoria UI](assets/images/ux-ui/3.jpg)
 
 - Secciones de frases "célebres" sobre Laboratoria (4). Secciones 2,4,6: Background image de persona que mencionó la frase, al ancho de la página y con altura aproximada (vistas desde ordenador) de 395px, con un filtro fijo de opacidad media que permite la lectura del texto; Orden de texto: Frase mencionada, nombre de la persona como título y debajo información sobre el puesto que tiene y la empresa donde trabaja.  
 
-![Lyft Website](assets/images/ux-ui/2.jpg)
+![Laboratoria UI](assets/images/ux-ui/2.jpg)
 
 - Sección enfática de información. Sección 7 (siguiendo la secuencia): Se presentan datos duros sobre el impacto de la empresa en cajas rectángulares de 200 x 165 pixeles (vista desde ordenador) resaltadas de fondo color Laboratoria, números centrados con alineación vertical a la mitad en Museo sans 700, tan anchos como caja de texto contenedora.
 - Sección de frase enfática. Sección 8: Mismas características de background image. La frase se muestra mayormente resaltada, en mayúsculas con mayor porcentaje de tamaño de fuente. Al ser un personaje reconocido no se indica puesto ni empresa.
 
-![Lyft Website](assets/images/ux-ui/4.jpg)
+![Laboratoria UI](assets/images/ux-ui/4.jpg)
 
 - Secciones 9 y 10. Aliados regionales y reconocimientos, respectivamente: Se muestran logotipos de las empresas a 3 columnas, divididas por una diferencia de color de fondo entre blanco y gris aclarado.
 
-![Lyft Website](assets/images/ux-ui/5.jpg)
+![Laboratoria UI](assets/images/ux-ui/5.jpg)
 
 - Secciones 11 y 12. Presencia en medios y blog, respectivamente: Además del logo o una imágen que ilustra el contenido, se aumenta un texto informativo que añade breve introducción. En el caso del blog, son las primeras líneas de la entrada y en la parte inferior de las columnas un link para poder seguir el blog.
 
 - Footer: Logo y texto en "negativo", sobre fondo gris obscurecido valor hexadecimal #2B2B2B. Debajo del logo, breve descripción sobre labor de la organización. Del lado derecho 3 líneas con hipervínculo: Contáctanos, Trabaja con nosotros, Blog.
 
-![Lyft Website](assets/images/ux-ui/6.jpg)
+![Laboratoria UI](assets/images/ux-ui/6.jpg)
 
 ## Análisis UX
 
@@ -59,17 +59,17 @@ Durante la navegación están presentes **(See)** unos recuadros con iconos de r
 
 - Dentro de las secciones de *información y frases*; el primer par tiene el objetivo de *otorgar información precisa sobre el procedimiento y los alcances que tiene el programa* **(Think)** y por medio de la imagen **(See)** acompañada de una frase, dar *testimonio vivencial* de una de las egresadas; este par de secciones tiene por objetivo *transmitir mayor confianza* y va dirigido a las interesadas en postularse **(Do, inicia un sentido de lealtad –Care-)** acompañado nuevamente de un botón que da un vínculo directo al llenado de formulario de manera sencilla *(Do)*. La plataforma te acompaña todo el tiempo para que en el momento que tomes la decisión sea muy fácil para ti encontrar cómo postular.
 
-![Lyft Website](assets/images/ux-ui/7.jpg)
+![Laboratoria UX](assets/images/ux-ui/7.jpg)
 
 - El segundo par  de información y frase, está *dirigido a las empresas* y tiene por objetivo *mostrar* que el proceso de capacitación de Laboratoria es *extensivo y confiable*, describiendo los criterios de selección, evaluación y metodología **(Think, care)**. A continuación se presenta el caso real de una frase mencionada por el Ejecutivo en Jefe de una empresa de renombre, sobre su adquisición de talento tecnológico en Laboratoria, creando dentro de la experiencia el interés suficiente *(See, Awareness)* para conocer más y presionar el botón “Conoce nuestro talento” **(Do)**, sección que mostrará datos con el poder de generar lealtad y convencimiento de estar *frente a la mejor opción* **(Diferenciation, Care)**.
 
 - En la tercera sección de estas combinaciones de *información e impacto* se busca brindar *evidencias concretas e inamovibles* que consoliden la visualización de la **“Comunidad Laboratoria”** ante el usuario, para ello se exponen *datos duros*  que demuestran el desempeño de Laboratoria a lo largo de su trayectoria y la *presencia internacional* que tiene como organización, al ser reconocida por Barack Obama y Mark Zukerberg, personas de éxito y *top influencers en innovación e industria tecnológica*.**(Loyalty, Care)** Posteriormente, se muestra el respaldo de empresas que ya forman parte de la comunidad, de la cual se hace la invitación a formar parte *(Loyalty, Care, Community)*. Y por último se exponen *entradas del blog*, sección dirigida a las postulantes, donde puedes leer y percibir directamente palabras  y experiencias de los fundadores (nos permite confiar en las personas detrás, quienes han creado Laboratoria)y de otras mujeres igual que tú, esta sección demuestra que *está a tu alcance formar parte* y vivir el cambio de vida **(Loyalty, Care)**.
 
-![Lyft Website](assets/images/ux-ui/8.jpg)
+![Laboratoria UX](assets/images/ux-ui/8.jpg)
 
 - Dentro del footer y como parte (quizás final) de la experiencia por parte del usuario, puede encontrar un resúmen que engloba y cierra toda la información: **qué y para quién Laboratoria hace lo que hace.** Seguido de ello, brinda los datos de contacto de los Directores *(Confianza, Seguridad)*.
 
-![Lyft Website](assets/images/ux-ui/blog.jpg)
+![Laboratoria UX](assets/images/ux-ui/blog.jpg)
 
 La postulante o empresa no sólo son invitados a postular o inscribirse al programa, son invitados abiertamente a **formar parte activa de un movimiento social** que impulsa mujeres, que capacita y emplea el mejor talento y que empodera a Latinoamérica a nivel mundial: **User Experience.**
 
@@ -85,32 +85,32 @@ GitHub es una plataforma de desarrollo colaborativo que tiene un sistema de cont
 ## Desglose de elementos
 De forma general, Github utiliza  **“Navegación coherente”** al mantener el identificador y un menú con secciones de manera fija en la parte superior del sitio independientemente de la vista o sección que se esté navegando, ya que da un sentido de orientación y estabilidad al usuario *(Conforme al texto “Diseño de la navegación”, página 82)*:
 
-![Lyft Website](assets/images/nav-github/01.jpg)
+![Navegación GitHub](assets/images/nav-github/01.jpg)
 
 En primer lugar, al no estar *"logeado"*, la página presenta un menú de **Navegación global** que contiene de lado izquierdo la identificación del sitio por medio de la silueta de su personaje *Octocat*, que es su logotipo y es el elemento que al dar click siempre te llevará a Home; seguido de 5 secciones de *navegación principal*;  un recuadro de búsqueda y por último 2 utilidades para poder ingresar a la página por primera vez *(Sign up)* o con datos de usuario existentes *(Sign in)*.
 
-![Lyft Website](assets/images/nav-github/1.jpg)
+![Navegación GitHub](assets/images/nav-github/1.jpg)
 
 Una vez que se ha ingresado, nos encontramos con un menú de **Navegacion local** ya que presenta las secciones que  ayudarían al usuario a navegar en una vista en particular, en este caso desde su propio perfil.
 
-![Lyft Website](assets/images/nav-github/2.jpg)
+![Navegación GitHub](assets/images/nav-github/2.jpg)
 
 Al realizar alguna búsqueda, se nos presenta además de los resultados obtenidos, una barra de **Navegacion facetada** es decir que han filtrado la información en secciones establecidas. Puedo seleccionar repositorios, código, entre otras opciones.
 
-![Lyft Website](assets/images/nav-github/3.jpg)
+![Navegación GitHub](assets/images/nav-github/3.jpg)
 
 E incluso presenta la opción de navegar entre los resultados de forma *filtrada*, al dar la opción al usuario de seleccionar los criterios específicos que le interesa obtener, por ejemplo el repositorio con más estrellas, en un lenguaje de programación C++. Aquí vemos la **Navegación filtrada**.
 
-![Lyft Website](assets/images/nav-github/4.jpg)
+![Navegación GitHub](assets/images/nav-github/4.jpg)
 
 Otro tipo de navegación presente en GitHub, es muy claro al seleccionar “Explore”. Ya que te muestra una serie de colecciones enfocadas en tus intereses o búsquedas recientes. Este es el tipo de **Navegación Contextual**.
 
-![Lyft Website](assets/images/nav-github/5.jpg)
+![Navegación GitHub](assets/images/nav-github/5.jpg)
 
 También podemos encontrar el tipo de **Navegación en línea**, al realizar una búsqueda que no se pudo encontrar: Nos mostrará un texto dentro del cual viene un link *(“a new search query”/ advanced search)* de referencia con una opción o información adicional que el usuario elige si consulta o no.
 
-![Lyft Website](assets/images/nav-github/6.jpg)
-![Lyft Website](assets/images/nav-github/7.jpg)
+![Navegación GitHub](assets/images/nav-github/6.jpg)
+![Navegación GitHub](assets/images/nav-github/7.jpg)
 
 ***
 
@@ -135,24 +135,24 @@ Las siguientes secciones conforman la vista por medio de gráficas de:   Promedi
 ### Boceto a mano
 Como una primera aproximación al problema, se planteó como punto de partida la visualización inicial de la página. Señalando las funcionalidades básicas y secuencias de interacción, al seleccionar las secciones.
 
-![Lyft Website](assets/images/data-dashboard/hand-sketch1.jpg)
+![Dashboard](assets/images/data-dashboard/hand-sketch1.jpg)
 
 ### Sketch en Figma
 Se desarrolla el esqueleto a línea dentro del formato “Desktop HD” que permite organizar la propuesta en medidas reales, distribuir los espacios y descubrir posibilidades que no habían sido contempladas dentro del bocetaje a mano como las múltiples posibilidades al interactuar.
 
-![Lyft Website](assets/images/data-dashboard/desktop-hd.jpg)
+![Dashboard](assets/images/data-dashboard/desktop-hd.jpg)
 
-![Lyft Website](assets/images/data-dashboard/propuesta1.jpg)
+![Dashboard](assets/images/data-dashboard/propuesta1.jpg)
 
-![Lyft Website](assets/images/data-dashboard/propuesta2.jpg)
+![Dashboard](assets/images/data-dashboard/propuesta2.jpg)
 
 ### Sketch en Marvelapp
 Se importan los sketches creados con figma, para dotarlos de una interacción simulada. Que permite visualizar de forma más acercada a la realidad cómo funcionará la página. Esto nos permitiría realizar pruebas con el usuario para detectar aciertos y áreas de oportunidad dentro de la propuesta. Para este ejercicio se realizó un proyecto  “data-dash” con 15 imágenes, visible en el vínculo: **https://marvelapp.com/78c5h2a **
 
 **Algunas imágenes del proceso:**
 
-![Lyft Website](assets/images/data-dashboard/marvel-app-screen3.jpg)
+![Dashboard](assets/images/data-dashboard/marvel-app-screen3.jpg)
 
-![Lyft Website](assets/images/data-dashboard/marvel-app-screen.jpg)
+![Dashboard](assets/images/data-dashboard/marvel-app-screen.jpg)
 
-![Lyft Website](assets/images/data-dashboard/marvel-app-screen2.jpg)
+![Dashboard](assets/images/data-dashboard/marvel-app-screen2.jpg)
